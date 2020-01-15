@@ -1,0 +1,6 @@
+   /data/BlackList.docx下存放动态黑名单，
+     每次过滤后进行更新；
+  /data/BlackWords.docx下存放检索词汇；
+  /data/goodemails下存放正常邮件样本
+  /data/bademails下存放恶意邮件样本
+     每次过滤后进行更新；
